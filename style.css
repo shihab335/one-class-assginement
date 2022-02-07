@@ -1,0 +1,34 @@
+ul{
+    margin-bottom: 0;
+}
+.banner-text{
+    margin-bottom: 240px;
+    color: #fff !important;
+}
+img{
+    max-width: 100%;
+}
+
+.content{
+    background-color: rgba(221, 221, 221, 0.445);
+}
+.check-marign{
+    margin-left: -22px;
+}
+.card-pog{
+    margin-top: 10px;
+}
+.card-pad{
+    padding: 0 !important;
+}
+
+.box-2-pad{
+    padding: 10px 0;
+}
+.ptogres-pad{
+    padding-top: 45px !important;
+}
+.stratch-sec{
+    background-color: rgba(221, 221, 221, 0.445);
+    padding-bottom: 70px;
+}
